@@ -71,5 +71,5 @@ float fresnel(
     refractedLayerColor,
     transparencyFactor
   )
-  + half4(lightReflectionColor + detailColor, 1);
+  + half4(lightReflectionColor + detailColor, 0);
 }
