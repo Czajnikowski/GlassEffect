@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "everytexture.com-stock-misc-texture-00047-normal-1024.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "compression-type" : "lossless"
+  }
+}

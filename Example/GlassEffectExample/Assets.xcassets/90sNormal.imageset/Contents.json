@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "Glass_Vintage_001_normal.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "compression-type" : "lossless"
+  }
+}
