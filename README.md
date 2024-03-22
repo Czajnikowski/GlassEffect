@@ -1,6 +1,6 @@
 # GlassEffect
 
-You can use this effect to produce a glass-like effect on top of your SwiftUI `View`s 🔍. The package features an example app that can be used to play with some input parameters and showcases a bunch of normal textures.
+You can use this effect to produce a decorative/ornamental glass-like effect on top of your SwiftUI `View`s 🔍. The package features an example app that can be used to play with some input parameters and showcases a bunch of normal textures.
 
 It models refraction and reflection of light taking the fresnel effect into account. It also allows one to calculate a "detail" that serves as a visual clue about the shape of the glass. 
 
